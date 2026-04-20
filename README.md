@@ -1,27 +1,27 @@
-## Objectif
+## Objective
 
-Ce projet consiste à créer un site web responsive en utilisant le framework Bootstrap, afin de garantir une adaptation optimale sur tous les types d’écrans (mobile, tablette, desktop).
-
----
-
-## Contexte
-
-Ce projet a été réalisé dans le cadre de ma formation pour approfondir mes compétences en intégration web et découvrir l’utilisation d’un framework CSS moderne.
-L’objectif était de concevoir une interface responsive rapidement grâce aux composants et au système de grille de Bootstrap.
+This project consists of creating a responsive website using the Bootstrap framework in order to ensure optimal adaptation across all types of screens (mobile, tablet, desktop).
 
 ---
 
-## Fonctionnalités
+## Context
 
-* Design responsive (mobile-first)
-* Utilisation du système de grille Bootstrap
-* Composants UI (navbar, boutons, sections, etc.)
-* Navigation fluide
-* Mise en page structurée et cohérente
+This project was carried out as part of my training to deepen my skills in web integration and to discover the use of a modern CSS framework.  
+The objective was to design a responsive interface quickly using Bootstrap components and grid system.
 
 ---
 
-## Technologies utilisées
+## Features
+
+* Responsive design (mobile-first)
+* Use of the Bootstrap grid system
+* UI components (navbar, buttons, sections, etc.)
+* Smooth navigation
+* Structured and consistent layout
+
+---
+
+## Technologies Used
 
 * HTML5
 * CSS3
@@ -29,34 +29,34 @@ L’objectif était de concevoir une interface responsive rapidement grâce aux 
 
 ---
 
-## Compétences développées
+## Skills Developed
 
-* Utilisation d’un framework CSS (Bootstrap)
+* Use of a CSS framework (Bootstrap)
 * Responsive design (mobile-first)
-* Mise en page avec système de grille
-* Intégration rapide d’interfaces modernes
+* Layout using a grid system
+* Rapid integration of modern interfaces
 
 ---
 
-## Ce que j’ai appris
+## What I Learned
 
-* Structurer un site avec Bootstrap
-* Gagner du temps avec des composants préconstruits
-* Adapter un site à différents formats d’écran
-* Comprendre les bonnes pratiques du responsive design
-
----
-
-## Améliorations possibles
-
-* Personnalisation avancée du design (CSS)
-* Ajout de JavaScript pour plus d’interactivité
-* Amélioration de l’accessibilité
-* Création de pages supplémentaires
+* Structuring a website with Bootstrap
+* Saving time with pre-built components
+* Adapting a website to different screen formats
+* Understanding responsive design best practices
 
 ---
 
-## Auteur
+## Possible Improvements
 
-Annabelle
-GitHub : https://github.com/Annabelle-m
+* Advanced design customization (CSS)
+* Adding JavaScript for more interactivity
+* Improving accessibility
+* Creating additional pages
+
+---
+
+## Author
+
+Annabelle  
+GitHub: https://github.com/Annabelle-m
